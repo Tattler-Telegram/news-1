@@ -2,7 +2,7 @@
 
 ## Setup
 ```bash
-$ git clone https://github.com/polymer/news.git
+$ git clone https://github.com/tattler telegram/news.git
 $ cd news
 $ npm i
 $ npm start
